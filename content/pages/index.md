@@ -5,7 +5,9 @@ sections:
     title: RITA
     subtitle: Reciclaje Inteligente con Tachos Automaticos
     content: >-
-      El primero tacho de basura inteligente del mundo
+      El primero tacho de basura inteligente del mundo.
+      Una combinacion de Hardware y Software unica que ayuda a mejorar tus
+      habitos y salvar al planeta.
     actions:
       - label: Contactarse
         url: /contacto
@@ -27,7 +29,7 @@ sections:
         content: >-
           Una IA altamente entrenada para saber distinguir que residuo pertenece a cada categoria
         image: images/classic/FAQ1.png
-        image_alt: Feature 1 placeholder image
+        image_alt: IA Feature
         media_position: right
         media_width: fifty
         align: right
@@ -52,12 +54,28 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - title: Hardware especializado
+        content: >-
+          RITA cuenta con sensores, motores y una pantalla tactil, que brindan una experiencia de 
+          uso fluida, para que reciclar sea una mas facil que nunca. Tan solo al acercarte, el sensor de proximidad se activara 
+        image: images/hardware.png
+        image_alt: Hardware
+        media_position: right
+        media_width: fifty
+        align: right
+        actions:
+          - label: Conocer mas
+            url: /contacto
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
       - title: Competi con tus amigos
         content: >-
           Utiliza nuestro sistemas de puntuacion para desafialos y ver quien recicla mas!
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
-        media_position: right
+        media_position: left
         media_width: fifty
         actions:
           - label: Conocer mas
@@ -98,7 +116,7 @@ sections:
         style: primary
     grid_items:
       - title: Ezequiel Romero
-        subtitle: Co-Founder
+        subtitle: Co-Fundador. Hincha de San Lorenzo
         title_align: center
         image_position: top
         image: images/eze.jpeg

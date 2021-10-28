@@ -24,7 +24,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Login",
+                "label": "App",
                 "url": "http://app.proyectorita.com.ar",
                 "style": "primary"
             }
