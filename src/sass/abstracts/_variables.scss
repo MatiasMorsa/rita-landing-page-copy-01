@@ -5,12 +5,14 @@ $theme-styles: (
 	classic: (
 		fonts: (
 			serif: ('Lora', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),
-			sans-serif: ('Open Sans', Lato, sans-serif)
+            sans-serif: ('Open Sans', Lato, sans-serif),
+            futura: ('Futura Bold', 'Futura')
 		),
 		colors: (
 			blue:  #7076f0,
-			green: #29cf7f,
-			red:   #f36763
+			green: rgb(67,201,121),
+            red:   #f36763,
+            white: #FFFF
 		)
 	),
 	bold: (
@@ -20,8 +22,10 @@ $theme-styles: (
 		),
 		colors: (
 			blue:  #2859da,
-			green: #01be54,
-			red:   #ec5033
+			green: #01C273,
+            red:   #ec5033,
+            white: #FFFF,
+
 		)
 	),
 	minimal: (
@@ -31,8 +35,9 @@ $theme-styles: (
 		),
 		colors: (
 			blue:   #0084ff,
-			green:  #00cc88,
-			red:    #ff3366
+			green:  #01C273,
+            red:    #ff3366,
+            white: #FFFF
 		)
 	)
 );
@@ -48,7 +53,7 @@ $color-primary:                        #45515e !default;
 
 // Base
 $color-body-text:                      #2c343c !default;
-$color-meta:                           #8696a6 !default;
+$color-meta:                           #E9EBEF !default;
 $color-body-bg:                        #fff !default;
 
 // Highlight
@@ -121,7 +126,7 @@ $color-primary-sect-bg:                $color-primary !default;
 $color-primary-sect-text:              #fff !default;
 $color-primary-sect-btn-text:          #2c343c !default;
 $color-primary-sect-btn-bg:            #fff !default;
-$color-secondary-sect-bg:              #eceef1 !default;
+$color-secondary-sect-bg:              #E9EBEF !default;
 $color-secondary-sect-code-border:     #fff !default;
 $color-secondary-sect-code-bg:         #fff !default;
 $color-secondary-sect-table-border:    #fff !default;

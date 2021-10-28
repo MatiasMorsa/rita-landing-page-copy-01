@@ -1,13 +1,12 @@
 ---
-title: Thank You
+title: gracias
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Gracias!
     subtitle: >-
-      Thank you for contacting us. We will get back in touch with you soon. Have
-      a great day!
+      Gracias por tu mensaje. Nos vamos a contactar con vos a la brevedad. Que tengas un lindo dia!
     actions:
-      - label: Back to homepage
+      - label: Inicio
         url: /
         style: primary
     align: center
