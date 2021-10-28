@@ -5,7 +5,7 @@ sections:
     title: RITA
     subtitle: Reciclaje Inteligente con Tachos Automaticos
     content: >-
-      El primero tacho de basura inteligente del mundo.
+      El primer tacho de basura inteligente del mundo.
       Una combinacion de Hardware y Software unica que ayuda a mejorar tus
       habitos y salvar al planeta.
     actions:
